@@ -1,0 +1,10 @@
+openai
+Pillow
+python-dotenv
+requests
+streamlit
+ipyspeck(==0.6.1)
+ipywidgets(==7.6.3)
+ipython_genutils
+py3Dmol
+stmol==0.0.9
